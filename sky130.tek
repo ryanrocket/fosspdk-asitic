@@ -99,7 +99,7 @@
     t     = 0.360000
     d     = 0.000000
     name  = met1
-    color = green
+    color = blue
 
 <metal> 3  ; Metal 2 Layer
     layer = 6
@@ -107,7 +107,7 @@
     t     = 0.360000
     d     = 0.000000
     name  = met2
-    color = yellow
+    color = pink
 
 <metal> 4  ; Metal 3 Layer
     layer = 7
@@ -115,7 +115,7 @@
     t     = 0.845000
     d     = 0.000000
     name  = met3
-    color = orange
+    color = cyan
 
 <metal> 5  ; Metal 4 Layer
     layer = 8
@@ -123,7 +123,7 @@
     t     = 0.845000
     d     = 0.000000
     name  = met4
-    color = grey
+    color = purple
 
 <metal> 6  ; Metal 5 Layer
     layer = 9
@@ -131,7 +131,7 @@
     t     = 1.260000
     d     = 0.000000
     name  = met5
-    color = white
+    color = gold
 
 <via> 0  ; Substrate to Local Interconnect Contact
     top       = 1
